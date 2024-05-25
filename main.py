@@ -59,4 +59,4 @@ if __name__ == "__main__":
     image_folder = "./test"
     output_folder = "./people"
 
-    organize_images(image_folder, output_folder, tolerance=0.4)
+    organize_images(image_folder, output_folder, tolerance=0.5)
